@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.Rolling-Die button {
+  color: white;
+  background-color: black;
+  border-radius: 50px;
+  padding: 15px;
+  border: 0px;
+  width: 150px;
+  outline: none;
+}
+
+.Rolling-Die button:hover {
+  background-color: purple;
+  cursor: pointer;
+}
